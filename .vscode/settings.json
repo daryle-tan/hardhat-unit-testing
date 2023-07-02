@@ -1,0 +1,5 @@
+{
+  "prettier.configPath": "cmd + e",
+  "prettier.enableDebugLogs": true,
+  "prettier.trailingComma": "es5"
+}
